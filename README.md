@@ -82,9 +82,9 @@ AI Product Management · Prompt Engineering · LLMs · AI Evaluation · AI Workf
 Data Analysis · Excel · SQL · Power BI · Tableau · Product Analytics
 
 
-#### Delivery & Collaboration
+#### Delivery, Collaboration & AI Tools
 
-GitHub · ClickUp · Jira · Figma · Notion · Trello · Slack
+ClickUp · Jira · Figma · Notion · Trello · Slack · ChatGPT · Claude · Lovable · Viktor GitHub ·Zoom
 
 
 ### 🎓 Certifications & Professional Development
