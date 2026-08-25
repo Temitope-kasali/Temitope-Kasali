@@ -84,7 +84,7 @@ Data Analysis · Excel · SQL · Power BI · Tableau · Product Analytics
 
 #### Delivery, Collaboration & AI Tools
 
-ClickUp · Jira · Figma · Notion · Trello · Slack · ChatGPT · Claude · Lovable · Viktor GitHub ·Zoom
+ClickUp · Jira · Figma · Notion · Trello · Slack · ChatGPT · Claude · Lovable · Viktor · GitHub · Zoom
 
 
 ### 🎓 Certifications & Professional Development
