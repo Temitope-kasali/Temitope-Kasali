@@ -1,15 +1,14 @@
 ## Hi, I'm Temitope Kasali 👋🏾
 
-### AI Product Manager | Product Strategy & Execution | AI-Native and AI-Enabled Products
-I build products and systems at the intersection of artificial intelligence, product strategy, operations and business innovation.
+### AI Product Manager | Head of Product | AI-Native & AI-Enabled Products
+I build and lead products at the intersection of artificial intelligence, product strategy, business innovation and human-centred technology.
 
-My work spans both AI-native products, where artificial intelligence is central to the product itself, and AI-enabled products and services, where AI enhances existing workflows, decision-making and user experiences.
+My work spans AI-native products, where AI is central to the product's value proposition, and AI-enabled products and services, where AI enhances workflows, decision-making and user experiences.
 
 I am particularly interested in solving complex problems by translating business needs into structured product strategies, practical solutions and measurable outcomes.
 
 
 ### 🧭 What I Do
-
 
 I work across the product lifecycle, including:
 - Product strategy and discovery
@@ -27,10 +26,9 @@ I work across the product lifecycle, including:
 
 
 ### What I'm Currently Building
-I am currently working on an AI-native enterprise SaaS product focused on helping organisations assess and improve their readiness for artificial intelligence adoption.
+I am currently leading an AI-native enterprise SaaS product focused on helping organisations assess and improve their readiness for artificial intelligence adoption.
 
-The product is being developed around structured diagnostic workflows, AI-assisted assessment, prioritisation, business case development, governance and executive decision support.
-
+The product brings together structured diagnostic workflows, AI-assisted assessment, prioritisation, business case development, governance and executive decision support.
 
 ### My work includes:
 - Defining MVP scope and product requirements
@@ -43,6 +41,34 @@ The product is being developed around structured diagnostic workflows, AI-assist
 
 **Current principle**: Build thin, evaluate, validate early and scale what the evidence supports.
 
+### 🤖 Notix — AI Product Management
+I also work as an AI Product Manager at Notix, contributing to the evolution of a developer-first messaging platform for email, SMS and transactional communication.
+
+My work explores how AI can make complex messaging infrastructure easier to understand, diagnose and operate, including AI-assisted workflows and emerging Model Context Protocol (MCP) use cases.
+
+My focus includes:
+- AI product strategy and discovery
+- Product requirements and prioritisation
+- AI-assisted workflows
+- MCP product opportunities
+- AI-powered diagnostics and decision support
+- Product safety and governance
+- Human oversight in AI-enabled operations
+
+The goal is not simply to add AI, but to use it where it can compress expert work while preserving reliability, control and accountability.
+
+
+### 💼 HitchPay — Head of Product
+As Head of Product at HitchPay, I lead product direction and execution, translating business objectives and customer needs into product strategy, priorities and delivery.
+
+My focus includes:
+- Product discovery
+- Product strategy and roadmap development
+- Requirements and prioritisation
+- Cross-functional execution
+- Product delivery and iteration
+- Customer and business value
+- Building scalable product systems
 
 ### How I Think About AI Products
 I believe building AI products requires more than adding an AI feature.
@@ -102,7 +128,6 @@ ClickUp · Jira · Figma · Notion · Trello · Slack · ChatGPT · Claude · Lo
 ### 🌍 Beyond Product Management
 
 #### My academic background is in Philosophy, which continues to influence how I approach technology, AI and decision-making.
-
 
 I am interested in:
 - Philosophy of technology
