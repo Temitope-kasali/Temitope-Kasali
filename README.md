@@ -62,7 +62,7 @@ The goal is not simply to add AI, but to use it where it can compress expert wor
 As Head of Product at HitchPay, I lead product direction and execution, translating business objectives and customer needs into product strategy, priorities and delivery.
 
 My focus includes:
-- Product discovery
+- Product discovery and validation
 - Product strategy and roadmap development
 - Requirements and prioritisation
 - Cross-functional execution
